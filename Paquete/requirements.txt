@@ -1,0 +1,5 @@
+numpy==1.24.2
+paquete==0.2
+pip==23.0.1
+setuptools==65.5.1
+wheel==0.38.4
