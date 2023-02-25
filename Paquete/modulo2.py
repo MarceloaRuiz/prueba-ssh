@@ -39,5 +39,6 @@ while ingreso != 4:
     if ingreso == 3:  # graba los datos en el archivo .txt
         grabar()
     if ingreso == 4:  # sale del sistema
-        print("Hasta luego.")
+        print("Hasta luego chau.")
+
 
